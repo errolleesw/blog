@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "SAMPLE: The Benefits of Journaling: How Writing Can Improve Your Mental Health"
 date: 2023-03-27
 ---
